@@ -15,8 +15,8 @@ export default function Github() {
             </p>
 
             <p>
-                This project demonstrates JSX, React components,
-                state management, and fetching data from an API.
+                Our final project will be about online games and typing skill. Our project will feature a typing game that demonstrates 
+                the user's typing speed and accuracy, while giving rewards based on accomplishments.
             </p>
 
             <br />
